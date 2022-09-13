@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yape.apitest.basetemplate.YapeRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.987 sec
